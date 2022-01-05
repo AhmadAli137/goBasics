@@ -5,6 +5,6 @@ import (
 	"fmt" //used for formatted I/O (scanning and printing)
 )
 
-func meow() { //executes by deafult when you run the main package
+func Hello() { //executes by deafult when you run the main package
 	fmt.Println("Hello World!")
 }
